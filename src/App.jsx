@@ -64,7 +64,7 @@ function App() {
               }}
             />
             <label className="text-lg font-bold text-[#1F1F1F] whitespace-nowrap" htmlFor="numInput">
-              Numbers
+              Number
             </label>
 
             <input 
@@ -76,7 +76,7 @@ function App() {
               }}
             />
             <label className="text-lg font-bold text-[#1F1F1F] whitespace-nowrap" htmlFor="charInput">
-              Characters
+              Character
             </label>
 
         </div>
